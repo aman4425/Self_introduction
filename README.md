@@ -1,8 +1,8 @@
-#  Self Introduction Video
+#  Self-Introduction Video
 
 ## 📖 Overview
 
-This repository contains my self-introduction video created for professional and academic purposes. The video highlights my background, skills, projects, and career aspirations in the field of Computer Science, with a specialization in Artificial Intelligence and Machine Learning.
+This repository contains my self-introduction video created for professional and academic purposes. The video highlights my background, skills, projects, and career aspirations in Computer Science, with a specialisation in Artificial Intelligence and Machine Learning.
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains my self-introduction video created for professional and
 
 Hello, my name is Aman Prakash. I am currently pursuing my Bachelor’s degree in Computer Science and Engineering with a specialisation in Artificial Intelligence and Machine Learning at VIT Bhopal.
 
-I am passionate about building real-world solutions using technology, particularly in the domains of machine learning and deep learning.
+I am passionate about building real-world solutions using technology, particularly in machine learning and deep learning.
 
 ---
 
@@ -47,7 +47,7 @@ The purpose of this self-introduction video is to:
 
 ---
 
-## 📂 File Details
+##  File Details
 
 * File Name: `self_introduction.mp4`
 * Duration: ~1 minutes
@@ -55,7 +55,7 @@ The purpose of this self-introduction video is to:
 
 ---
 
-## 🚀 Future Goals
+##  Future Goals
 
 I aim to work in a challenging and growth-oriented environment where I can apply my skills in AI/ML, contribute to impactful projects, and continuously enhance my knowledge.
 
